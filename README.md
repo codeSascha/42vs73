@@ -1,4 +1,4 @@
-<h1 align="center">✨ PERN Stack Tutorial ✨</h1>
+<h1 align="center">✨ 42vs73 Shop ✨</h1>
 
 Highlights:
 
